@@ -1,3 +1,0 @@
-﻿  Main.cpp
-C:\Users\user\source\repos\PrintNightmareTest\PrintNightmare\Main.cpp(79,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  PrintNightmare.vcxproj -> C:\Users\user\source\repos\PrintNightmareTest\PrintNightmare\x64\Release\PrintNightmare.exe
